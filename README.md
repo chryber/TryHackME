@@ -1,6 +1,6 @@
 <h1>Intro</h1>
 </br>
-TryHackMe is cloud based training for future and current cyber security professionals to learn new concepts and hone their ethical hacking skills. I learned about this site from a colleague and have been actively utilizing it ever since. The amount of the content at the cost of subscription ($10 USD or something) was ridiculous not to become a subscriber. Below are some of the thing I have accomlished thus far.</br></br>
+TryHackMe is cloud based training for future and current cyber security professionals to learn new concepts and hone their ethical hacking skills. I learned about this site from a colleague and have been actively utilizing it ever since. The amount of the content at the cost of subscription ($10 USD or something) was ridiculous not to become a subscriber.</br></br>
 
 <h2>Gallery:camera:</h2>
 
