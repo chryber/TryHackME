@@ -25,6 +25,9 @@ Reading pcap with Snort config file
 Creating rules in Snort
 ![THM_snortrulewriting](https://user-images.githubusercontent.com/121698544/235050631-f01e6064-c9c2-498f-8e30-b3bb9682b6fd.png)
 
-Getting hands on with ThreatFox :fox:
+Getting hands on with ThreatFox :fox_face:
 ![threatfox1](https://user-images.githubusercontent.com/121698544/235050746-3061cffb-8ecd-408e-ac28-d5aaf3be93a4.png)
+
+Using VirusTotal.com to scan a potentially malicious zip file in Virtual Machine.
+![virusscan_malzip](https://user-images.githubusercontent.com/121698544/235050918-b96b2a8e-b025-495d-baa0-20f571bc55cc.png)
 
