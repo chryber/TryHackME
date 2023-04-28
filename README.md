@@ -12,3 +12,19 @@ Packet analysis with Wireshark
 
 Advent of Cybersecurity 2022 certificate! :grin:
 ![AdventofCyber2022Cert](https://user-images.githubusercontent.com/121698544/210395940-73e2b696-ab15-43f8-8820-0dd74d7db6e1.png)
+
+Hash analysis
+![THM_Hashanalysis](https://user-images.githubusercontent.com/121698544/235049731-1d2da828-2b09-4191-91f7-270d47f036a1.png)
+
+Reading log files with Snort
+![THM_snort(readinglogfile)](https://user-images.githubusercontent.com/121698544/235050038-99374295-b560-4ead-984c-442a7cff55c5.png)
+
+Reading pcap with Snort config file
+![THM_Snortreadingpcap](https://user-images.githubusercontent.com/121698544/235050591-c36cd5e3-f538-4a26-b0dc-757ea6a3f45f.gif)
+
+Creating rules in Snort
+![THM_snortrulewriting](https://user-images.githubusercontent.com/121698544/235050631-f01e6064-c9c2-498f-8e30-b3bb9682b6fd.png)
+
+Getting hands on with ThreatFox :fox:
+![threatfox1](https://user-images.githubusercontent.com/121698544/235050746-3061cffb-8ecd-408e-ac28-d5aaf3be93a4.png)
+
