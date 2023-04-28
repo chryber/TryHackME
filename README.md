@@ -28,6 +28,6 @@ Creating rules in Snort
 Getting hands on with ThreatFox :fox_face:
 ![threatfox1](https://user-images.githubusercontent.com/121698544/235050746-3061cffb-8ecd-408e-ac28-d5aaf3be93a4.png)
 
-Using VirusTotal.com to scan a potentially malicious zip file in Virtual Machine.
+Using VirusTotal.com to scan a potentially malicious zip file in Linux VM.
 ![virusscan_malzip](https://user-images.githubusercontent.com/121698544/235050918-b96b2a8e-b025-495d-baa0-20f571bc55cc.png)
 
