@@ -31,3 +31,5 @@ Getting hands on with ThreatFox :fox_face:
 Using VirusTotal.com to scan a potentially malicious zip file in Linux VM.
 ![virusscan_malzip](https://user-images.githubusercontent.com/121698544/235050918-b96b2a8e-b025-495d-baa0-20f571bc55cc.png)
 
+OpenVas report refresher while waiting on it to fully setup for use in Kali Purple.
+![THM_OpenVas_scanreport](https://github.com/chryber/TryHackME/assets/121698544/30c53c3b-3a9c-49bf-bd7e-b4a51a2baffa)
